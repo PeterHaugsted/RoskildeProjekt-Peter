@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RoskildeProjekt-master/RoskildeProjekt.iml" filepath="$PROJECT_DIR$/RoskildeProjekt-master/RoskildeProjekt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RoskildeProjekt-master.iml" filepath="$PROJECT_DIR$/.idea/RoskildeProjekt-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoskildeProjekt-master/RoskildeProjektPeter.iml" filepath="$PROJECT_DIR$/RoskildeProjekt-master/RoskildeProjektPeter.iml" />
     </modules>
   </component>
 </project>
